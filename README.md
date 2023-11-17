@@ -12,6 +12,8 @@ I am attempting to curate a collection of publicly available custom GPTs, before
 |  [Sacrament Talk Companion](https://chat.openai.com/g/g-bLbz0scG8-sacrament-talk-companion) | Creates LDS sacrament meeting talks from provided sources. | WalkingRiver |
 |  [Slide Transformer](https://chat.openai.com/g/g-VD5F0j9A1-slide-transformer) | Turns text into slide decks. | WalkingRiver |
 |  [Convert Anything](https://chat.openai.com/g/g-kMKw5tFmB-convertanything) | The ultimate file converter for images, audio, video, documents and more. It handles individual or batch uploads, supports ZIPs, and provides a download link. | Pietro Schirano |
+| [User Personna Bot](https://chat.openai.com/g/g-bearQwPJt-user-persona-bot) | Custom Bot model for creating User Persona images and descriptions for user research and interface design purposes. |  Sevak Petrossians |
+| [How Many Calories?](https://chat.openai.com/g/g-U8bCr2VOu-how-many-calories) | Upload a photo of your meal – or just describe it – and get a smart analysis of its calorie content 🍏 | executiveguide.ai |
 |  [DALL·E](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) | Let me turn your imagination into imagery | ChatGPT |
 | [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis) | Drop in any files and I can help analyze and visualize your data | ChatGPT |
 | [ChatGPT Classic](https://chat.openai.com/g/g-YyyyMT9XH-chatgpt-classic) | The latest version of GPT-4 with no additional capabilities | ChatGPT |
